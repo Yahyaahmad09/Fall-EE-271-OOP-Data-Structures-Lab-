@@ -1,24 +1,69 @@
+# **🎓 University Labs: OOP and Data Structures**  
+_A repository for all my university lab work in **Object-Oriented Programming (OOP)** and **Data Structures**._  
 
-<h1 align="center">Hi 👋, I'm Yahya Ahmad</h1>
-<h3 align="center">Exploring OOP Concepts through Python Programming</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaahmad09&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaahmad09" /> </p>
+## **📑 Table of Contents**  
+1. [📘 Introduction](#📘-introduction)  
+2. [📝 Lab List](#📝-lab-list)  
+3. [📚 Topics Covered](#📚-topics-covered)  
+4. [🌍 Languages Used](#🌍-languages-used)  
+7. [📬 Contact](#📬-contact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyaahmad09" alt="yahyaahmad09" /></a> </p>
+---
 
-- 🌱 I’m currently learning **OOP and Data Structure, Python, Machine Learning**
+## **📘 Introduction**  
+This repository contains the lab assignments I have completed during my university coursework. The focus is on **Object-Oriented Programming (OOP)** principles and **Data Structures** concepts. Each lab covers specific topics and includes practical examples and solutions.
 
-- 📫 How to reach me **ya0280780@gmail.com**
+### **🎯 Purpose**  
+- 📖 To document my learning journey.  
+- 🛠️ To serve as a reference for future studies and projects.  
+- 🤝 To share my solutions with fellow students (_no plagiarism, though! 😅_).  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## **📝 Lab List**  
+Here’s what I’ve worked on so far:  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyaahmad09&show_icons=true&locale=en&layout=compact" alt="yahyaahmad09" /></p>
+1. **🔵 Lab 1: Introduction to OOP**  
+   - 🚀 Basics of classes, objects, and methods.  
+2. **🟢 Lab 2: Inheritance and Polymorphism**  
+   - 🏗️ Exploring single and multilevel inheritance.  
+3. **🔴 Lab 3: Data Structures - Arrays**  
+   - 🔍 Implementation of linear and binary search.  
+4. **🟠 Lab 4: Linked Lists**  
+   - 📋 Singly and doubly linked list operations.  
+5. **🟡 Lab 5: Stacks and Queues**  
+   - 📦 Using arrays and linked lists for stack/queue implementation.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyaahmad09&show_icons=true&locale=en" alt="yahyaahmad09" /></p>
+[More labs will be added as I progress! 🚧]  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyaahmad09&" alt="yahyaahmad09" /></p>
+---
+
+## **📚 Topics Covered**  
+### **1️⃣ Object-Oriented Programming (OOP):**  
+- 🏷️ Classes and Objects.  
+- ⚙️ Constructors and Destructors.  
+- 🪜 Inheritance (Single, Multilevel, Multiple).  
+- 🌀 Polymorphism (Function Overloading, Method Overriding).  
+
+### **2️⃣ Data Structures:**  
+- 📂 Arrays and Linked Lists.  
+- 📐 Stacks and Queues.  
+- 🌳 Binary Trees and Binary Search Trees.  
+- 🧩 Hash Tables.  
+
+### **3️⃣ Algorithms:**  
+- 🔄 Sorting (Bubble, Quick, Merge).  
+- 🔍 Searching (Linear, Binary).  
+
+---
+
+## **🌍 Languages Used**  
+The following programming languages are used in this repository:  
+
+1. **🐍 Python**  
+   - Easy-to-read syntax and great for implementing data structures and algorithms.  
+
+---
+
