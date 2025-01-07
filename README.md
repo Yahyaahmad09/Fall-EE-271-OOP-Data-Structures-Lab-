@@ -1,13 +1,7 @@
 # **🎓 University Labs: OOP and Data Structures**  
 _This repository contains all my lab assignments from university related to **Object-Oriented Programming (OOP)** and **Data Structures**._  
 
----
-
-## **🚀 My Recent Activity**
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=fff&color=6d6d6d&line=000000&point=000000&area=true)
-
-
----
+--
 
 ## **📑 Table of Contents**  
 1. [📘 Introduction](#📘-introduction)  
