@@ -1,6 +1,7 @@
-# **🎓 University Labs: OOP and Data Structures**  
-_This repository contains all my lab assignments from university related to **Object-Oriented Programming (OOP)** and **Data Structures**._  
-
+<h1 align="center" style="color: #4CAF50; text-shadow: 0 0 5px #4CAF50, 0 0 10px #4CAF50, 0 0 20px #4CAF50;">
+  🎓 University Labs: OOP and Data Structures
+</h1>
+_Explore my university journey in **Object-Oriented Programming (OOP)** and **Data Structures**, documented through exciting projects and assignments._  
 
 ---
 
@@ -9,85 +10,72 @@ _This repository contains all my lab assignments from university related to **Ob
 2. [📝 Lab List](#📝-lab-list)  
 3. [📚 Topics Covered](#📚-topics-covered)  
 4. [🌍 Languages Used](#🌍-languages-used)  
-5. [📬 Contact](#📬-contact)
+5. [📬 Contact](#📬-contact)  
 
 ---
 
 ## **📘 Introduction**  
-This repository serves as a collection of my completed assignments from university coursework. It focuses on core concepts in **Object-Oriented Programming (OOP)** and **Data Structures**, with practical implementations of various techniques and algorithms.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-gif.gif" width="600" alt="OOP and Data Structures">
+</p>
 
-### **🎯 Objectives**  
-- 📖 To document and reflect on my academic progress.  
-- 🛠️ To provide a reference for future academic and professional use.  
-- 🤝 To collaborate and share solutions with fellow students (_while maintaining academic integrity!_).
+This repository is a curated collection of assignments that highlight core concepts of **OOP** and **Data Structures**.  
+🚀 **Key Features**:  
+- 📖 Documentation of my academic progress.  
+- 🛠️ A valuable reference for future academic/professional endeavors.  
+- 🤝 An opportunity to collaborate with peers while promoting **academic integrity**.
 
 ---
 
 ## **📝 Lab List**  
-Below is a summary of the labs I have completed to date:  
+### **Completed Labs with Highlights:**  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/lab-animation.gif" width="600" alt="Labs Animation">
+</p>
 
-1. **🔵 Lab 1: Introduction to OOP**  
-   - 🚀 Overview of classes, objects, and methods.  
-2. **🟢 Lab 2: Basic Python Data Types, Built-in Functions, and Functions**  
-   - 📘 Understanding Python’s basic data types, built-in functions, and custom function definitions.  
-3. **🔴 Lab 3: List, Tuple, and Dictionary**  
-   - 🔄 Implementation and manipulation of Python collections (lists, tuples, dictionaries).  
-4. **🟠 Lab 4: Classes - 1**  
-   - 🏷️ Exploring the structure and creation of classes in Python, focusing on attributes and methods.  
-5. **🟡 Lab 5: Classes - 2**  
-   - 🔄 Advanced exploration of Python classes, including instance methods and class inheritance.  
-6. **🟣 Lab 6: Classes - 3**  
-   - 🔧 Working with advanced class concepts, such as special methods and class-level attributes.  
-7. **🟤 Lab 7: Inheritance**  
-   - 🏗️ Understanding and implementing inheritance in Python.  
-8. **🟠 Lab 8: Multi-Level Inheritance**  
-   - 🔄 Implementation of multi-level inheritance in Python.  
-9. **🔵 Lab 9: Multiple Inheritance**  
-   - 🔀 Handling multiple inheritance and resolving method conflicts.  
-10. **🟡 Lab 10: Modules and Packages**  
-    - 📦 Understanding and using modules and packages for code organization.  
-11. **🟣 Lab 11: Stack Algorithm**  
-    - 💻 Implementing the stack data structure and related algorithms.  
-12. **🟤 Lab 12: Queue Algorithm**  
-    - 🔄 Implementing the queue data structure and understanding related algorithms.  
-13. **🔴 Lab 13: Data Preparation - Electric Power Consumption**  
-    - ⚡ Preparing and processing data related to electric power consumption for analysis.  
-
+| 🔢 **Lab No.** | 📂 **Title**                           | 🔍 **Description**                                               |  
+|----------------|---------------------------------------|------------------------------------------------------------------|  
+| 🔵 1           | Introduction to OOP                  | 🚀 Overview of classes, objects, and methods.                    |  
+| 🟢 2           | Basic Python Data Types              | 📘 Exploring Python’s data types and built-in functions.         |  
+| 🔴 3           | List, Tuple, and Dictionary          | 🔄 Working with collections in Python.                           |  
+| 🟠 4-6         | Advanced Classes                     | 🏷️ Deep dive into classes, attributes, methods, and inheritance. |  
+| 🟡 7-9         | Inheritance (Single to Multiple)     | 🏗️ Comprehensive coverage of Python inheritance techniques.      |  
+| 🟣 10-12       | Data Structures: Stack and Queue     | 💻 Practical implementation of stack and queue algorithms.        |  
+| 🔴 13          | Data Preparation: Electric Power Data| ⚡ Preparing electric power data for analysis.                    |  
 
 ---
 
 ## **📚 Topics Covered**  
-### **1️⃣ Object-Oriented Programming (OOP):**  
-- 🏷️ Classes and Objects.  
-- 🪜 Inheritance (Single, Multilevel, Multiple).  
+### **OOP and Data Structures at a Glance**  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/topics-animation.gif" width="800" alt="Topics Animation">
+</div>  
 
-### **2️⃣ Data Structures:**  
-- 📂 Arrays and Linked Lists.  
-- 📐 Stacks and Queues.  
-- 🌳 Binary Trees and Binary Search Trees.  
-- 🧩 Hash Tables.  
-
-### **3️⃣ Algorithms:**  
-- 🔄 Sorting (Bubble, Quick, Merge).  
-- 🔍 Searching (Linear, Binary).  
+- **🏷️ Object-Oriented Programming (OOP):** Classes, Objects, Inheritance (Single, Multilevel, Multiple).  
+- **📐 Data Structures:** Arrays, Linked Lists, Stacks, Queues, Binary Trees.  
+- **🔄 Algorithms:** Sorting (Bubble, Quick), Searching (Linear, Binary).  
 
 ---
 
 ## **🌍 Languages Used**  
-The following programming languages are used in this repository for various assignments:  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python Icon">
+</p>  
 
-1. **🐍 Python**  
-   - Python is used for implementing and demonstrating algorithms and data structures due to its simple syntax and versatility.
+- **🐍 Python**: Primary language for demonstrations due to its simplicity and versatility.
 
 ---
 
 ## **📬 Contact**  
-If you have any questions or would like to discuss topics related to Object-Oriented Programming or Data Structures, feel free to get in touch:
+💬 Let’s connect and discuss programming topics or ideas!  
 
-- 📧 **Email:** [ya0280780@gmail.com](mailto:ya0280780@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/yahya-ahmad-8538312b1/](https://www.linkedin.com/in/yahya-ahmad-8538312b1/)  
-- 🌐 **GitHub:** [https://github.com/Yahyaahmad09](https://github.com/Yahyaahmad09)  
-- 📱 **Phone:** +92 3369340226  
+<p align="center">
+  <a href="mailto:ya0280780@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yahya-ahmad-8538312b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Yahyaahmad09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>  
+
+📱 **Phone:** +92 3369340226  
 
 ---
 
