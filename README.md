@@ -62,6 +62,7 @@ This repository is a curated collection of assignments that highlight core conce
   <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python Icon">
 </p>  
 
+
 - **🐍 Python**: Primary language for demonstrations due to its simplicity and versatility.
 
 ---
